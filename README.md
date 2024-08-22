@@ -5,6 +5,8 @@
 
 This dashboard helps individuals track and manage their personal expenses. It provides insights into spending patterns, identifies areas where expenses can be reduced, and helps in budgeting more effectively. By understanding these aspects, individuals can better manage their finances and work towards their financial goals.
 
+🔗[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODI3NTE0MmEtMGRmYi00ZmIxLWFkNDctYjk4NDRkNTdmNzBkIiwidCI6IjE1ZjdmNjk3LWQ0ZmEtNDZlNC04ZGUzLThhNDAwMTFhYTY1NiJ9)
+
 ### Dataset Overview
 
 The dataset used for this project contains various types of financial data, including income, savings, and expenses, tracked over multiple months. It includes:
